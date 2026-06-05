@@ -286,12 +286,10 @@ Technology: C Programming Language
 
 Type: Console Based Mini Project
 
-25A31A4304 D.Meghana
+25A31A1256 : M.Sai Manikanta
 
- 25A31A4327 P.Satya
+25A31A1263 : Y.Kishor
 
- 25A31A4313 K.Manjusha
+25A31A1255 : P.Boyaj
 
- 25A31A4351 L.V.V. Durga Prasad
-
- 25A31A4343 V.J.Jagan surya
+25A31A1246 : K.J.Satya Praveen
